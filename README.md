@@ -31,8 +31,21 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/48df45f7-ed89-42f7-ac10-e4c5de4f448e)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/805f2b6b-d533-4798-aeac-3f43fac78a60)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/08b2c101-268b-4771-87d6-1b954e1b95f9)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/5ee0eb4e-cac5-42e7-960b-757c3ff2fa1a)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/3ea63409-8907-4366-94c2-705755aacca0)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/0c51fc84-ff05-4185-88c3-29a3ca975569)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/a0bc1988-2e36-426e-9135-6d819c0c3a7c)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/ac4571c9-67ec-4c8b-9178-64a81235e95f)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/686cc8dd-f87b-4202-9920-83a055bc6b23)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/ed832217-6333-46b5-9c2a-bc4d5e50eee6)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/286ae28a-57b4-460d-8b4b-0a5bdd528dad)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/1ed9ef27-56f9-4ac8-81a4-6d8f505e25cb)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/aa2978ac-23be-4417-a6c0-bc74b4ce8252)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/323f7873-980b-45d8-a957-740c8c4ee091)
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the program to read the given data and perform Feature Encoding and Transformation process and save the data to a file is created, executed and the output is verified successfully.
 
        
