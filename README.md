@@ -31,20 +31,35 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/48df45f7-ed89-42f7-ac10-e4c5de4f448e)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/805f2b6b-d533-4798-aeac-3f43fac78a60)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/08b2c101-268b-4771-87d6-1b954e1b95f9)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/5ee0eb4e-cac5-42e7-960b-757c3ff2fa1a)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/3ea63409-8907-4366-94c2-705755aacca0)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/0c51fc84-ff05-4185-88c3-29a3ca975569)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/a0bc1988-2e36-426e-9135-6d819c0c3a7c)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/ac4571c9-67ec-4c8b-9178-64a81235e95f)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/686cc8dd-f87b-4202-9920-83a055bc6b23)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/ed832217-6333-46b5-9c2a-bc4d5e50eee6)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/286ae28a-57b4-460d-8b4b-0a5bdd528dad)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/1ed9ef27-56f9-4ac8-81a4-6d8f505e25cb)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/aa2978ac-23be-4417-a6c0-bc74b4ce8252)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/323f7873-980b-45d8-a957-740c8c4ee091)
+
+![image](https://github.com/danush564/EXNO-3-DS/assets/98585166/0a899f25-56ff-4ce5-8c07-4ef8ae6c88f5)
+
+![image](https://github.com/danush564/EXNO-3-DS/assets/98585166/87926766-9f27-4dbc-a7a8-002d8208def1)
+
+![image](https://github.com/danush564/EXNO-3-DS/assets/98585166/e75f698f-9ebf-44f4-8a9d-7828ad196d94)
+
+![image](https://github.com/danush564/EXNO-3-DS/assets/98585166/f103f7a6-a600-4ec8-b8d5-2807dd436c3b)
+
+![image](https://github.com/danush564/EXNO-3-DS/assets/98585166/56a87372-9992-4471-9a9f-368a04ab596a)
+
+![image](https://github.com/danush564/EXNO-3-DS/assets/98585166/7147669a-fd39-446b-8e81-befdf59649fc)
+
+![image](https://github.com/danush564/EXNO-3-DS/assets/98585166/02af6d5f-fcb6-4d5c-9539-04439284c9ee)
+
+![image](https://github.com/danush564/EXNO-3-DS/assets/98585166/7ac8e2d5-c088-4406-89ea-02c2644c109e)
+
+![image](https://github.com/danush564/EXNO-3-DS/assets/98585166/ab07e9c5-30ee-4edd-bd45-23489f5b3a2d)
+
+![image](https://github.com/danush564/EXNO-3-DS/assets/98585166/7bce34e3-050d-413c-aacc-6e9e94dedee2)
+
+![image](https://github.com/danush564/EXNO-3-DS/assets/98585166/e876c166-7e33-4bea-8a27-f314fa699b95)
+
+![image](https://github.com/danush564/EXNO-3-DS/assets/98585166/7aecc769-22cb-4955-b825-0d095b1817b0)
+
+![image](https://github.com/danush564/EXNO-3-DS/assets/98585166/6d9e4cec-7163-44c7-b6d2-0d87f232c034)
+
+![image](https://github.com/danush564/EXNO-3-DS/assets/98585166/dbd0131d-1216-49be-9057-d1418a03c306)
+
 # RESULT:
 Thus the program to read the given data and perform Feature Encoding and Transformation process and save the data to a file is created, executed and the output is verified successfully.
 
